@@ -1,0 +1,150 @@
+
+// Testando console
+  // console.log("hello world");
+  // console.log("welcome")
+
+
+// Testanto variaveis
+  // var teteVariavel= 10;
+  // console.log(teteVariavel);
+  // var testeVariavel2= 20;
+  // console.log(testeVariavel2);
+  // testVariavel3= 30;
+  // console.log(testVariavel3);
+  // var testVariavel4= 40;
+  // console.log(testVariavel4);
+  // var testVariavel5= 50;
+  // console.log(testVariavel5);
+  // var a;
+  // a= "welcomem";
+  // a= "hello";
+  // var b= "life";
+  // console.log(a);
+  // console.log(b);
+
+  // Classes variaveis
+
+  // var a = "primeira linha \n segunda linha";
+  // console.log(a);
+  // Duas strigs somadas faz uma concatenação
+
+  // var a= [1,2,3];
+  // console.log(typeof a);
+
+  //  Operalçoes númericas
+
+  // console.log(10 % 3);
+  // adição, subtração, divisão, multiplicação, modulo, incremento e decremento
+
+  // console.log(10 === 10);
+  // console.log(10 !== 10);
+  // console.log(10 > 10);
+  // console.log(10 < 10);
+  // console.log(10 <= 10);
+
+  //
+
+  // console.log(!10==10 || 5 < 4);
+
+
+  //  Parse
+  //  Obs não vai chamar a função se não respeitar minuscullas e maisculas
+
+    // var a = "10.5";
+    // var b = "5.4";
+    // var c =  parseFloat(a) + parseFloat(b);
+    // console.log(c);
+
+//  Alert e Prompt
+
+  // var nome = prompt("qual é seu nome?");
+  // alert("Seu nome é" + nome);
+
+  // var idade = parseInt(prompt("sua idade é ?"));
+  // var dobro = idade * 2;
+  // alert("Sua idade é " + idade + "e o dobro da sua idadade é " + dobro );
+
+
+// var idade = 17
+
+// if (idade < 16){
+//   console.log("sua idade é " + idade);
+//   console.log("você não pode votar");
+// }
+
+// else{
+//   console.log("sua idade é " + idade);
+//   console.log("você pode votar");
+// }
+
+// var idade = 21
+
+//   if (idade < 21){
+//       console.log("não pode beber");
+//   }
+//   else{
+//       console.log("pode beber");
+//   }
+
+// let idade  = 75
+
+// if (idade < 16){
+//   console.log("Que pena você ainda não pode votar, espera mais um tempo");
+// }
+// else if ((idade >= 16 && idade < 18) || (idade >= 70)){
+//   console.log("Seu voto é facultativo");
+// }
+
+// else{
+//   console.log("Seu voto é obrigatório");
+// }
+
+// var idade = 18
+
+// var pode = idade >= 21 ? console.log("pode beber" : "não pode beber";
+
+// console.log(pode);
+
+//     Condições Switch
+
+// nota1 = 6;
+// nota2 = 4;
+// media = (nota1 + nota2)/2
+
+// console.log("Sua média é " + media)
+
+// var conceito = ""
+
+// if (media >= 8){
+//   conceito = "Ótimo";
+// }
+
+// else if (media >= 6.5){
+//   conceito = "Bom";
+// }
+
+// else {
+//   conceito = "Regular"
+// }
+
+// switch (conceito){
+
+//   case "Ótimo":
+//     console.log("Parabéns, seu desempenho está ótimo!!");
+//     break;
+
+//   case "Bom":
+//     console.log("Seu desempenho está bom.");
+//     break;
+
+//   case "Regular":
+//     console.log("você precisa estudar mais");
+//     break;
+
+//   default:
+//     console.log("houve algum erro");
+//     break;
+// }
+
+
+// Testadando For
